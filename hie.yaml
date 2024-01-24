@@ -1,0 +1,10 @@
+cradle:
+  cabal:
+    - path: "src"
+      component: "lib:Problems"
+
+    - path: "app/Main.hs"
+      component: "Problems:exe:Problems-exe"
+
+    - path: "test"
+      component: "Problems:test:Problems-test"
