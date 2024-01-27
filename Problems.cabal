@@ -27,11 +27,11 @@ library
   exposed-modules:
       Codewars.Bowling
       Codewars.FindingAnAppointment
+      Codewars.FizzledCalculator
+      Codewars.JpnTranslit
       Codewars.Lagrange
       Codewars.ProcessTree
       Lib
-      Skiena.Robot.Robot
-      Skiena.Robot.Tree
   other-modules:
       Paths_Problems
   autogen-modules:
