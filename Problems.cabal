@@ -28,8 +28,10 @@ library
       Codewars.Bowling
       Codewars.FindingAnAppointment
       Codewars.FizzledCalculator
+      Codewars.IntegerPartitions
       Codewars.JpnTranslit
       Codewars.Lagrange
+      Codewars.LookAndSayAndSum
       Codewars.ProcessTree
       Lib
   other-modules:
